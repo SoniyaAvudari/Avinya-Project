@@ -15,6 +15,8 @@ builder.Services.AddDbContext<AvinyaContext>(
    )
    );
 builder.Services.AddScoped<AccountsInterface,AccountsModelClass>();
+builder.Services.AddScoped<TransactionsInterface,TransactionsModelClass>();
+builder.Services.AddScoped<UsersInterface, UsersModelClass>();
 
 
 var app = builder.Build();

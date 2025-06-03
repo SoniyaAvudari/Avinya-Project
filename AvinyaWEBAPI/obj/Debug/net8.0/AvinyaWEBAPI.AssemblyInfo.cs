@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvinyaWEBAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e5e6c314794b62db945b30361c76a9ecdeec165")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68663fdd7832e05e2f6eb33db11c9032e14690e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvinyaWEBAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvinyaWEBAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
