@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvinyaLib", "AvinyaLib.csproj", "{88213059-B8A7-4FB6-87CC-5F21F31BBFC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvinyaWEBAPI", "..\AvinyaWEBAPI\AvinyaWEBAPI.csproj", "{E4246986-C3EF-4FD9-AECE-ECADD78FA9C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88213059-B8A7-4FB6-87CC-5F21F31BBFC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88213059-B8A7-4FB6-87CC-5F21F31BBFC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88213059-B8A7-4FB6-87CC-5F21F31BBFC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88213059-B8A7-4FB6-87CC-5F21F31BBFC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4246986-C3EF-4FD9-AECE-ECADD78FA9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4246986-C3EF-4FD9-AECE-ECADD78FA9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4246986-C3EF-4FD9-AECE-ECADD78FA9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4246986-C3EF-4FD9-AECE-ECADD78FA9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67E885EF-117A-40C6-8DC2-6A41F6EAF812}
+	EndGlobalSection
+EndGlobal

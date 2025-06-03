@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EtcY6z1uGnCUcIuHdgD7pt2kqeLk9AYVZH/N+6pxU0M=",
+  "Source": "AvinyaWEBAPI",
+  "BasePath": "_content/AvinyaWEBAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

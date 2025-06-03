@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\bin\Debug\net8.0\AvinyaLib.deps.json
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\bin\Debug\net8.0\AvinyaLib.dll
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\bin\Debug\net8.0\AvinyaLib.pdb
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.AssemblyInfo.cs
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.sourcelink.json
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.dll
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\refint\AvinyaLib.dll
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.pdb
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\ref\AvinyaLib.dll
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\bin\Debug\net8.0\AvinyaLib.runtimeconfig.json
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SoniyaAvudari\Avinya-Project\AvinyaLib\obj\Debug\net8.0\AvinyaLib.genruntimeconfig.cache
